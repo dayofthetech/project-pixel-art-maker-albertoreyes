@@ -27,11 +27,11 @@ table {
     margin: 0 auto;
 }
 
-tr {
+tr /*table row*/{
     height: 20px;
 }
 
-td {
+td /*table data*/{
     width: 20px;
 }
 
